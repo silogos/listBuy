@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'bebasNeueR';
+	src: url('../fonts/bebas_neue/BebasNeue Regular.otf');
+	src: url('../fonts/bebas_neue/TTF/BebasNeue Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'bebasNeueB';
+	src: url('../fonts/bebas_neue/BebasNeue Bold.otf');
+	src: url('../fonts/bebas_neue/TTF/BebasNeue Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'bebasNeueBk';
+	src: url('../fonts/bebas_neue/BebasNeue Book.otf');
+	src: url('../fonts/bebas_neue/TTF/BebasNeue Book.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'bebasNeueL';
+	src: url('../fonts/bebas_neue/BebasNeue Light.otf');
+	src: url('../fonts/bebas_neue/TTF/BebasNeue Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'bebasNeueTh';
+	src: url('../fonts/bebas_neue/BebasNeue Thin.otf');
+	src: url('../fonts/bebas_neue/TTF/BebasNeue Thin.ttf') format('truetype');
+}
+
+
+.title {
+	font-family:bebasNeueB;
+}
